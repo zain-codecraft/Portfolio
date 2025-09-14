@@ -1,4 +1,4 @@
-import { div, section } from "framer-motion/client";
+
 import { BentoGrid, BentoGridItem } from "./ui/bento-grid";
 import React from "react";
 import { gridItems } from "@/app/data/griditems";

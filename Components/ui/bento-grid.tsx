@@ -2,7 +2,6 @@
 
 import { useState } from "react";
 import { cn } from "../../lib/util";
-import { Globe } from "./globe";
 import { BackgroundGradientAnimation } from "./gradient-background";
 import { GlobeDemo } from "./gridglobe";
 import animationdata from "../../app/data/confetti.json"
@@ -34,8 +33,6 @@ export const BentoGridItem = ({
   className,
   title,
   description,
-  header,
-  icon,
   id,
   img,
   imgClassName,

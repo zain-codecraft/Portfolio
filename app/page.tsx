@@ -1,11 +1,8 @@
-import Testcomponent from "../Components/testcomponent"
 import Hero from "@/Components/hero";
 import Grid from "@/Components/grid";
 import { FloatingNav } from "@/Components/ui/floating-navbar";
 import RecentProjects from "@/Components/recentprojects";
 import Experience from "@/Components/experience"; 
-import { main } from "framer-motion/client";
-import { Main } from "next/document";
 import { navItems } from "./data/griditems";
 
 export default function Home() {

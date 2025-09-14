@@ -1,5 +1,4 @@
 import { workExperience } from "@/app/data/griditems";
-import { button } from "framer-motion/client";
 import React from "react";
 import { Button } from "./ui/movingborder";
 

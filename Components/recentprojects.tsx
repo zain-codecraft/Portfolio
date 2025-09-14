@@ -1,6 +1,5 @@
 "use client";
 import { projects } from "@/app/data/griditems";
-import { div, section } from "framer-motion/client";
 import { PinContainer } from "./ui/pincontainer";
 import React from "react";
 import { FaLocationArrow } from "react-icons/fa";
